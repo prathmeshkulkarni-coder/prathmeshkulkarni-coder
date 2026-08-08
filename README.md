@@ -1,6 +1,6 @@
 # Prathmesh Kulkarni
 
-Backend Engineer | MERN Stack | System-Oriented Builder
+Backend Engineer | MERN Stack | System-Oriented Builder | Open-source contributor
 
 I design and build structured, secure, production-ready web systems with
 strong backend architecture and clean API design.
