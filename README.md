@@ -1,9 +1,9 @@
 # Prathmesh Kulkarni
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathmeshkulkarni&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/prathmeshkulkarni?tab=followers">
-    <img src="https://img.shields.io/github/followers/prathmeshkulkarni?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=prathmeshkulkarni-coder&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/prathmeshkulkarni-coder?tab=followers">
+    <img src="https://img.shields.io/github/followers/prathmeshkulkarni-coder?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </div>
 
