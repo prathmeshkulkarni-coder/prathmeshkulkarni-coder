@@ -19,7 +19,7 @@
 
 Backend Engineer • Python • Django • Node.js • Express
 
-Pune, India • +91-9529331980 • prathmeshkulkarni9529@gmail.com  
+Pune, India  • prathmeshkulkarni9529@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/prathmesh-kulkarni-43b5a9355) • [GitHub](https://github.com/prathmeshkulkarni) • [Portfolio](https://prathmeshkulkarni.is-a.dev/)
 
 I build secure, scalable backend systems with a focus on APIs, authentication, system design, and clean engineering practices.
